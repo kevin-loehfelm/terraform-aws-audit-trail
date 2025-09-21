@@ -1,8 +1,8 @@
 ## Architecture
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/architecture-light.png">
-  <source media="(prefers-color-scheme: light)" srcset="images/architecture-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="images/architecture-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/architecture-light.png">
   <img alt="Architecture" src="images/architecture-white.png">
 </picture>
 
