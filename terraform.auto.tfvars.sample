@@ -1,0 +1,5 @@
+s3_bucket_name_audit_trail = "<globally_unique_s3_bucket_name>"
+terraform_organizations = [
+    "<hcp_terraform_organization_1>",
+    "<hcp_terraform_organization_2>"
+]
